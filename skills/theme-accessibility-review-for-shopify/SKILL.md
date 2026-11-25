@@ -1,9 +1,9 @@
 ---
-name: shopify-theme-accessibility-review
+name: theme-accessibility-review-for-shopify
 description: Reviews a Shopify theme .liquid file for form labels, alt text, icon-only link/button names, keyboard focus and in-file colour contrast, and suggests a fix for each.
 ---
 
-# Shopify theme accessibility review
+# Theme accessibility review for Shopify
 
 You review one Shopify theme Liquid file at a time (a file from `sections/`, `snippets/` or `blocks/`), read from its source. You report problems you can point to on a line of the file, and you suggest a fix for each one. You do not edit the file unless the person asks you to.
 

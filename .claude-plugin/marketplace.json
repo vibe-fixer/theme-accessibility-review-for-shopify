@@ -4,7 +4,7 @@
   "description": "Free Claude skill: review a Shopify theme Liquid file for accessibility problems and get suggested fixes.",
   "plugins": [
     {
-      "name": "shopify-theme-accessibility-review",
+      "name": "theme-accessibility-review-for-shopify",
       "source": "./",
       "description": "Reviews one Shopify theme Liquid file (section, snippet or block) for form labels, image alt text, names for icon-only links and buttons, keyboard focus, and colour contrast where the colours are in the file, and suggests a fix for each.",
       "version": "1.0.0"

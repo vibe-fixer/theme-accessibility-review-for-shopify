@@ -1,11 +1,11 @@
 {
-  "name": "shopify-theme-accessibility-review",
-  "displayName": "Shopify theme accessibility review, by VibeFix (vibe-fixer.com)",
+  "name": "theme-accessibility-review-for-shopify",
+  "displayName": "Theme accessibility review for Shopify, by VibeFix (vibe-fixer.com)",
   "version": "1.0.0",
   "description": "Reviews one Shopify theme Liquid file for form labels, image alt text, names for icon-only links and buttons, keyboard focus, and colour contrast where the colours are in the file, and suggests a fix for each.",
   "author": { "name": "VibeFix (vibe-fixer.com)", "url": "https://vibe-fixer.com" },
   "homepage": "https://vibe-fixer.com/stores",
-  "repository": "https://github.com/vibe-fixer/shopify-theme-accessibility-review",
+  "repository": "https://github.com/vibe-fixer/theme-accessibility-review-for-shopify",
   "keywords": ["shopify", "liquid", "accessibility", "a11y", "wcag", "theme", "claude-skill"],
   "license": "MIT"
 }

@@ -1,4 +1,4 @@
-# Shopify theme accessibility review: a free Claude skill by VibeFix (vibe-fixer.com)
+# Theme accessibility review for Shopify: a free Claude skill by VibeFix (vibe-fixer.com)
 
 A free Claude skill and copy-paste prompt that reviews one Shopify theme Liquid file (a section, snippet or block) for accessibility problems you can see in the source, and suggests a Liquid, HTML or CSS fix for each one.
 
@@ -17,15 +17,15 @@ Each finding comes with the line number, the WCAG 2.1 success criterion and leve
 ### Claude Code
 
 ```
-claude plugin marketplace add vibe-fixer/shopify-theme-accessibility-review
-claude plugin install shopify-theme-accessibility-review@vibe-fixer-a11y
+claude plugin marketplace add vibe-fixer/theme-accessibility-review-for-shopify
+claude plugin install theme-accessibility-review-for-shopify@vibe-fixer-a11y
 ```
 
 Then, in your theme folder: *"Review sections/footer.liquid for accessibility."*
 
 ### Claude.ai (web and desktop)
 
-Download the [`skills/shopify-theme-accessibility-review`](skills/shopify-theme-accessibility-review) folder and zip it, so the folder (not the SKILL.md alone) is at the top of the zip. In Claude, open **Customize → Skills**, press **+**, then **Create skill → Upload a skill**, and choose the zip. Skills need code execution turned on under **Settings → Capabilities**.
+Download the [`skills/theme-accessibility-review-for-shopify`](skills/theme-accessibility-review-for-shopify) folder and zip it, so the folder (not the SKILL.md alone) is at the top of the zip. In Claude, open **Customize → Skills**, press **+**, then **Create skill → Upload a skill**, and choose the zip. Skills need code execution turned on under **Settings → Capabilities**.
 
 ### Any AI chat
 
